@@ -20,6 +20,6 @@
       "message": "Questo sito utilizza cookie, anche di terze parti, per migliorare l'esperienza d'uso. Procedendo con la navigazione acconsenti all'uso dei cookie.",
       "dismiss": "OK!",
       "link": "Approfondisci",
-      "href": "http://renatobrazioli.it/my_cookiepolicy.html"
+      "href": "my_cookiepolicy.html"
     }
   })});
